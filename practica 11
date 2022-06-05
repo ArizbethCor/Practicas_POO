@@ -108,7 +108,7 @@ public class Leer {
     public int calificaciones[] = new int[21];
     public void LeerArchivoCSV(){
         String line;
-        String path = "C:\\Users\\Alain\\Desktop\\POO\\practica9.csv";
+        String path = "C:\Users\Arizbeth\Desktop\practica11\src";
         try{
             BufferedReader br = new BufferedReader(new FileReader(path));
             try {
